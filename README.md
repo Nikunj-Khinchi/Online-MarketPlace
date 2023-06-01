@@ -58,4 +58,4 @@ To access the admin features, follow these steps:
 - `/items`: Enables users to search for specific items based on keywords or filters.
 
 
-Thankyou FreeCodeCamp for this course Learn Django by Building an Online Marketplace – Python Tutorial for Beginners, Its very helpful for me to understand the Django FrameWork by Creating Online-MarketPlace
+Thankyou FreeCodeCamp for this course Learn Django by Building an Online Marketplace – Python Tutorial for Beginners, It's very helpful for me to understand the Django FrameWork by Creating Online-MarketPlace
