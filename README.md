@@ -10,21 +10,21 @@ To run this application, follow the steps below:
 
 2. Clone this repository to your local machine using the following command:
 
-git clone <repository_url>
+    git clone <repository_url>
 
 
 3. Navigate to the project directory:
 
-cd market
+    cd market
 
 4. Apply the database migrations using the following command:
 
-python manage.py migrate
+    python manage.py migrate
 
 
 5. Create a superuser account that will give you access to the admin features. Run the following command and provide the required information:
 
-python manage.py createsuperuser
+    python manage.py createsuperuser
 
 superuser details 
 Name : nikunj
@@ -34,7 +34,7 @@ password : nikunj12345
 
 6. Start the development server by running the following command:
 
-python manage.py runserver
+    python manage.py runserver
 
 
 7. Open your web browser and visit `http://localhost:8000` to access the application.
